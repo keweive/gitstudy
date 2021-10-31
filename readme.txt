@@ -6,3 +6,7 @@ $ git init
 
 $ git add readme.txt
 $ git commit readme.txt
+
+3. To show the status
+
+$ git status
