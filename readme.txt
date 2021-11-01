@@ -13,4 +13,8 @@ $ git status
 
 4. To create a new branch
 
-$ git checkout -b newbrahch
+$ git checkout -b newbranch
+
+5. Switch to a existing branch
+
+$ git checkout existing_branch
