@@ -10,3 +10,7 @@ $ git commit readme.txt
 3. To show the status
 
 $ git status
+
+4. To create a new branch
+
+$ git checkout -b newbrahch
