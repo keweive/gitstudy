@@ -18,3 +18,11 @@ $ git checkout -b newbranch
 5. Switch to a existing branch
 
 $ git checkout existing_branch
+
+6. Delect a branch
+
+$ git branch -d <name>
+
+7. Merge a branch to the current branck
+
+$ git merge <name>
